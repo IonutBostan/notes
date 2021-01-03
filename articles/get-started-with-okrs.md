@@ -16,7 +16,7 @@ There are three qualities that make a good objective. An objective should be mea
 A good set of key results are the three to five criteria that show you have accomplished an objective. They can be called milestones or benchmarks. The key results should have the following qualities:
 
 - Specific and time-bound
-- Aggressive yer realistic
+- Aggressive yet realistic
 - Measurable and verifiable
 
 ### Objectives
