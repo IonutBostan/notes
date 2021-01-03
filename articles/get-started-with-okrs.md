@@ -46,4 +46,22 @@ It's really important to be able to articulate to the team, the company revenue 
 
 To better understand the organisation revenue model, try filling out the following sentence: We sustain ourselves by `________` in order to `_________`.
 
+The OKRs don't need to incorporate every task in a team but what needs to be done differently or what needs to be changed in order to pursue the mission of the team. OKRs are not the same as your team's daily tasks.
+
+The KPIs (Key performance indicators) need to be separate for the team OKRs. The important part about the OKRs is picking the KPIs that matter in the quarter ahead and track the changes that you're trying to accomplish.
+
+An important step in setting the right objectives as a team is to request feedback from you teammates. Before asking for feedback try to think if the objective is following the three rules of an good objective:
+
+- Is it meaningful?
+- Is it audacious?
+- Is it inspiring?
+
+When asking for feedback on objectives you can use the following five questions to guide the feedback:
+
+- Are you asking for an incremental change, a leap or a discovery?
+- Can you make your Objective more specific?
+- Can your Objective be more action-oriented?
+- Can you say the same Objective in a more concise way?
+- Can you make it more memorable?
+
 Source -> https://www.whatmatters.com/get-started
