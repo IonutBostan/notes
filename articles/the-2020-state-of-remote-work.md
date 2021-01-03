@@ -1,8 +1,8 @@
 # The 2020 State of Remote Work
 
-There is a big probability that the work on remote may become the new normal and the companies first to adapt to this new reality may leverage the benefits of a bigger pool of talent. A new set of tools and methodologies need to be developed to support the remote work.
+There is a big probability that remote work may become the new normal and the companies first to adapt to this new reality may leverage the benefits of a bigger pool of talent. A new set of tools and methodologies need to be developed to support the remote work.
 
-The top three challenges that come with remote work are the difficulties with collaboration/communication and with loneliness.
+The top three challenges that come with remote work are: the difficulties with collaboration and communication and loneliness.
 Other struggles are: not being able to unplug, distractions at home, different time zones, staying motivated, talking vacation time.
 
 The main benefit of remote work is the flexibility (flexible schedule and work from any location). Other benefits are not having to commute and spend more time with family.
