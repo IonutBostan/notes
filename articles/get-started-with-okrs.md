@@ -70,7 +70,7 @@ There are various types of OKRs and each of these types defines what the finish 
 - Aspirational OKRs. Higher risk goals that push the team further.
 - Learning OKRs. Exploration to prove a hypothesis.
 
-When speaking about OKRs, it a good practice to align your team OKRs with the company or department OKRs. The alignment can be:
+When speaking about OKRs, it’s a good practice to align your team OKRs with the company or department OKRs. The alignment can be:
 
 - Explicit Alignment. Inheriting another KR as your Objective.
 - Directional Alignment. Using other OKRs as a guide for your own.
@@ -79,9 +79,9 @@ When speaking about OKRs, it a good practice to align your team OKRs with the co
 
 Key results are the measurable milestones that show progress. Normally each objective has three to five results and you can't have an objective without key results.
 
-An excellent set of key results can help capture the progress and tell you when you have accomplish the objective. It should also gives you early warning signals along the way if you are not on track toward the objective that you've set.
+An excellent set of key results can help capture the progress and tell you when you have accomplished the objective. It should also give you early warning signals along the way if you are not on track toward the objective that you've set.
 
-The key results need to be time-bound, specific, measurable and verifiable. It's important to discuss these key results durring the weekly meetings as it gives a sense of the progress the team has achieved.
+The key results need to be time-bound, specific, measurable and verifiable. It's important to discuss these key results during the weekly meetings as it gives a sense of the progress the team has achieved.
 
 Normally the key results fall in one of these three categories:
 
