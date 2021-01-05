@@ -64,4 +64,46 @@ When asking for feedback on objectives you can use the following five questions 
 - Can you say the same Objective in a more concise way?
 - Can you make it more memorable?
 
-Source -> https://www.whatmatters.com/get-started
+There are various types of OKRs and each of these types defines what the finish line looks like for the team:
+
+- Committed OKRs. The goals that must be met.
+- Aspirational OKRs. Higher risk goals that push the team further.
+- Learning OKRs. Exploration to prove a hypothesis.
+
+When speaking about OKRs, it a good practice to align your team OKRs with the company or department OKRs. The alignment can be:
+
+- Explicit Alignment. Inheriting another KR as your Objective.
+- Directional Alignment. Using other OKRs as a guide for your own.
+
+### Key Results
+
+Key results are the measurable milestones that show progress. Normally each objective has three to five results and you can't have an objective without key results.
+
+An excellent set of key results can help capture the progress and tell you when you have accomplish the objective. It should also gives you early warning signals along the way if you are not on track toward the objective that you've set.
+
+The key results need to be time-bound, specific, measurable and verifiable. It's important to discuss these key results durring the weekly meetings as it gives a sense of the progress the team has achieved.
+
+Normally the key results fall in one of these three categories:
+
+- Inputs. The things you can control.
+- Outputs. The things you produce.
+- Outcomes. The changes you're trying to make.
+
+It's a good practice to pair quantitative and qualitative key results as we want to ensure the quality of our objective and not just the quantity.
+
+The key results can be categorized into leading indicators and lagging indicators.
+
+**Leading indicators** are easier to measure in real-time, and are good for new or rapidly evolving products. Typically, developing sophisticated product analytics is the best way to keep an eye on these faster-moving metrics. It can be useful to set up a dashboard for your OKRs to watch them daily or weekly.
+
+**Lagging indicators** are those tied most closely to the business’ success: things like revenue and bookings. Every product team should keep them in mind, but they usually manifest too slowly to be the only outcome you track. They make good long term goals, and are useful for mature products.
+
+Another way to categories the key results is in the following categories:
+
+- Incremental key results. A change from where you are today.
+- Leap key results. A jump to a completely new state.
+- Hold key results. Maintain where you are today.
+
+### External Links:
+
+- [Get Started With OKRs](https://www.whatmatters.com/get-started)
+- [Leading and lagging indicators](https://www.linkedin.com/pulse/cheat-sheet-setting-okrs-kate-hopkins)
